@@ -5,10 +5,10 @@
 ---
 ##Code 301 - Intermediate Software Development
 
-| Syntax | Description |
+| calsses |pages |
 | --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| class01 | [component and react](class01.md)|
+| class02 | [state and props](class02.md)|
 
 [component and react](class01.md)
 ---
