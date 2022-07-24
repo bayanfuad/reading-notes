@@ -10,7 +10,7 @@
 | class01 | [component and react](class01.md)|
 | class02 | [state and props](class02.md)|
 
-[component and react](class01.md)
+
 ---
 ##Code 401 - Advanced Software Development
 ---
