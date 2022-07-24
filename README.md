@@ -5,7 +5,12 @@
 ---
 ##Code 301 - Intermediate Software Development
 
-[reading#1](class01.md)
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+[component and react](class01.md)
 ---
 ##Code 401 - Advanced Software Development
 ---
