@@ -2,7 +2,7 @@
 
 # What does .map() return?
 
-new array with the same length as the original array
+new array with the same length of the original array
 
 # If I want to loop through an array and display each value in JSX, how do I do that in React?
 -use the {}
@@ -15,7 +15,7 @@ key
 
 # What is the purpose of a key?
 
-should be given to the elements inside the array to give the elements a stable identity
+used inside the array to give the elements a stable identity
 
 # What is the spread operator? 
 
