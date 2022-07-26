@@ -10,6 +10,7 @@
 | class01 | [component and react](class01.md)|
 | class02 | [state and props](class02.md)|
 | class03 | [passing functions as props](class03.md)|
+| class04 | [react and forms](class04.md)|
 
 
 ---
