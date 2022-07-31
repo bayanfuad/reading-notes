@@ -13,6 +13,7 @@
 | class04 | [react and forms](class04.md)|
 | class05 | [thinking in react and higher-order functions](class05.md)|
 | class06 | [node.js](class06.md)|
+| class07 | [rest.js](class07.md)|
 
 
 
