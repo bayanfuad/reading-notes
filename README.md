@@ -15,7 +15,7 @@
 | class06 | [node.js](class06.md)|
 | class07 | [rest](class07.md)|
 | class08 | [readings: APIs](class08.md)|
-| class09 | [functinal programming and node js](class08.md)|
+| class09 | [functinal programming and node js](class09.md)|
 
 
 
