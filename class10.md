@@ -47,4 +47,4 @@ In the debugger window, you can set breakpoints in the JavaScript code. At each 
 it lets the code has more tools to watch and fetch data and variables during excution
 
 ## Things I want to know more about
-stack overflow
+stack overflow and error massages.
