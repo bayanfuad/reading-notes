@@ -16,7 +16,7 @@
 | class07 | [rest](class07.md)|
 | class08 | [readings: APIs](class08.md)|
 | class09 | [functinal programming and node js](class09.md)|
-
+| class10 | [js call stack and error massages](class10.md)|
 
 
 ---
