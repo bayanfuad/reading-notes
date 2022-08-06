@@ -75,3 +75,7 @@ There is also no/few relations.
 ## What is the disadvantage of a NoSQL database?
 
 You could have duplicated data, it needs to be updated
+
+## Things I want to know more about
+
+Mongo and SQL
