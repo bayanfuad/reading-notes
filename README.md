@@ -18,7 +18,7 @@
 | class09 | [functinal programming and node js](class09.md)|
 | class10 | [js call stack and error massages](class10.md)|
 | class11 | [mongo and mogoose](class11.md)|
-
+| class12 | [CRUD](class12.md)|
 
 ---
 ##Code 401 - Advanced Software Development
