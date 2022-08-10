@@ -20,6 +20,7 @@
 | class11 | [mongo and mogoose](class11.md)|
 | class12 | [CRUD](class12.md)|
 | class13 | [more CRUD](class13.md)|
+| class14 | [diversity and inclusion in the tech Iindustry](class14.md)|
 ---
 ##Code 401 - Advanced Software Development
 ---
