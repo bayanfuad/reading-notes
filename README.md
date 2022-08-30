@@ -24,9 +24,9 @@
 ---
 ##Code 401 - Prep-work 
 ---
-| calsses |pages |
+| Tasks |Title |
 | --- | ----------- |
-| class01 | [component and react](class01.md)|
+| task 01 | [Bash](task01.md)|
 ---
 ##Code 401 - Advanced Software Development
 ---
