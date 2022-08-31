@@ -21,5 +21,24 @@ Absolute paths specify a location (file or directory) in relation to the root di
 
 Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
 cd command: to navigate through files.
-
-
+## more about files
+file:
+obtain information about what type of file a file or directory is.
+ls -a:
+List the contents of a directory, including hidden files.
+Everything is a file under Linux:
+Even directories.
+Linux is an extensionless system:
+Files can have any extension they like or none at all.
+Linux is case sensitive:
+Beware of silly typos.
+## manual pages
+The manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept.
+man <command>
+Look up the manual page for a particular command.
+man -k <search term>
+Do a keyword search for all manual pages containing the given search term.
+/<term>
+Within a manual page, perform a search for 'term'
+n
+After performing a search within a manual page, select the next found item.
