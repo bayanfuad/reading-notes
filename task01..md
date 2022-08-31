@@ -96,3 +96,7 @@ The Linux command line does not have an undo feature. Perform destructive action
 Command line options
   
 Most commands have many useful command line options. Make sure you skim the man page for new commands so you are familiar with what they can do and what is available.
+  
+  # cheat sheet!
+This cheat sheet is intended to be a quick reminder for the main concepts involved in using the command line and assumes you already understand their usage.
+  	[cheat sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
