@@ -16,7 +16,7 @@ Runnibng ls with a single command line option ( -l ) which indicates we are goin
 -Finally we have the actual name of the file or directory.
 Running ls with a command line argument ( /etc ). When we do this it tells ls not to list our current directory but instead to list that directories contents.
 Running ls with both a command line option and argument. As such it did a long listing of the directory /etc.
-![activity try](bash1.png)
+
 ## Absolute and Relative Paths
 Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
 
@@ -43,3 +43,22 @@ Do a keyword search for all manual pages containing the given search term.
 Within a manual page, perform a search for 'term'
 n
 After performing a search within a manual page, select the next found item.
+  
+# File Manipulation!
+  
+  mkdir
+Make Directory - ie. Create a directory.
+rmdir
+Remove Directory - ie. Delete a directory.
+touch
+Create a blank file.
+cp
+Copy - ie. Copy a file or directory.
+mv
+Move - ie. Move a file or directory (can also be used to rename).
+rm
+Remove - ie. Delete a file.
+  No undo
+The Linux command line does not have an undo feature. Perform destructive actions carefully.
+Command line options
+Most commands have many useful command line options. Make sure you skim the man page for new commands so you are familiar with what they can do and what is available.
