@@ -27,6 +27,7 @@
 | Tasks |Title |
 | --- | ----------- |
 | task 01 | [Bash](task01.md)|
+| task 02 | [Prep your mindset](task02.md)|
 ---
 ##Code 401 - Advanced Software Development
 ---
