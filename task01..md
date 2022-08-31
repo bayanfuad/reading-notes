@@ -16,12 +16,13 @@ Runnibng ls with a single command line option ( -l ) which indicates we are goin
 -Finally we have the actual name of the file or directory.
 Running ls with a command line argument ( /etc ). When we do this it tells ls not to list our current directory but instead to list that directories contents.
 Running ls with both a command line option and argument. As such it did a long listing of the directory /etc.
+![activity try](bash1.jpg)
 ## Absolute and Relative Paths
 Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
 
 Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
 cd command: to navigate through files.
-## more about files
+# more about files!
 file:
 obtain information about what type of file a file or directory is.
 ls -a:
@@ -32,7 +33,7 @@ Linux is an extensionless system:
 Files can have any extension they like or none at all.
 Linux is case sensitive:
 Beware of silly typos.
-## manual pages
+# manual pages!
 The manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept.
 man <command>
 Look up the manual page for a particular command.
