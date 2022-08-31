@@ -16,7 +16,7 @@ Runnibng ls with a single command line option ( -l ) which indicates we are goin
 -Finally we have the actual name of the file or directory.
 Running ls with a command line argument ( /etc ). When we do this it tells ls not to list our current directory but instead to list that directories contents.
 Running ls with both a command line option and argument. As such it did a long listing of the directory /etc.
-![activity try](bash1.jpg)
+![activity try](bash1.png)
 ## Absolute and Relative Paths
 Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
 
