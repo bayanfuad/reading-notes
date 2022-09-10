@@ -35,5 +35,6 @@
 | calsses |pages |
 | --- | ----------- |
 | class01 | [Express](01.md)|
+| class04 | [SQL database, ORM, Sequelize](02.md)|
 ---
 [GitHub](https://github.com/bayanfuad)
