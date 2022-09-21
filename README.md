@@ -36,5 +36,6 @@
 | --- | ----------- |
 | class01 | [Express](01.md)|
 | class04 | [SQL database, ORM, Sequelize](02.md)|
+| class10 | [Stack and Queues](03.md)|
 ---
 [GitHub](https://github.com/bayanfuad)
