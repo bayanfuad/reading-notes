@@ -38,5 +38,6 @@
 | class04 | [SQL database, ORM, Sequelize](02.md)|
 | class10 | [Stack and Queues](03.md)|
 | class15 | [Reducer](04.md)|
+| class15 | [OSI model and Soket io](05.md)|
 ---
 [GitHub](https://github.com/bayanfuad)
