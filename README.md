@@ -40,6 +40,7 @@
 | class15 | [Reducer](04.md)|
 | class19 |[OSI model and Soket io](05.md)|
 | class20 | [Hash Table](06.md)|
-| class22 | [Chakra UI](07.md)|
+| class24 | [Chakra UI](07.md)|
+| class26 | [Graph](08.md)|
 ---
 [GitHub](https://github.com/bayanfuad)
