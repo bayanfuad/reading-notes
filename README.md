@@ -42,5 +42,6 @@
 | class20 | [Hash Table](06.md)|
 | class24 | [Chakra UI](07.md)|
 | class26 | [Graph](08.md)|
+| class27| [Redux](09.md)|
 ---
 [GitHub](https://github.com/bayanfuad)
